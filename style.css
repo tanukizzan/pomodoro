@@ -10,7 +10,7 @@ body {
   min-height: 100vh;
   table-layout: fixed;
   line-height: 1.6rem;
-  /* background: linear-gradient(#13f1fc, #0470dc); */
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
 }
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
