@@ -59,7 +59,7 @@ main img {
   font-weight: bold;
   line-height: 1em;
 }
-#min-timer, #sec-timer {
+#next-time, #min-timer, #sec-timer {
   font-size: 1.5rem;
   font-weight: bold;
 }
